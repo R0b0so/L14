@@ -5,4 +5,4 @@ if shutdown == "no":
 elif shutdown == "yes":
     print("system shutting down")
 else: 
-    print("sorry we didn't get that") 
+    print("sorry we did not get that") 
